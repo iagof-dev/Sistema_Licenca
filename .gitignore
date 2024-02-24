@@ -1,2 +1,5 @@
 /mysql-data
 /mysql-data/*
+/SistemaLicenca/bin
+/SistemaLicenca/obj
+/SistemaLicenca/.vs
